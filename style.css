@@ -126,7 +126,10 @@
             padding-left: 18px;
         }
 
-        .imglogo{}
+        .imglogo{
+            width: 100px;
+            color: white;
+        }
 
 
 
