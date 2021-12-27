@@ -22,7 +22,8 @@
             align-items: center;
             justify-content: center;
             display: flex;
-            background-color: #eaeaea;  
+            background-color: #eaeaea;
+            cursor: pointer;  
         }
 
         .paraparis{
@@ -38,6 +39,19 @@
         .pdecouvrez{
             width: 70%;           
         }
+        
+        .lienexplore{
+            text-decoration: none;
+            color: white;
+        }
+
+        .lienexplore :hover{
+            transform: scale(1.02);
+            opacity: 0.8;
+            transition-duration: 400ms;
+        }
+
+        
         .pexplore{
             display: flex;
             justify-content: center;
@@ -54,10 +68,23 @@
             align-items: center;
         }
 
+        .lienfonction{
+            width: 90%;
+            height: 80px;
+            text-decoration: none;
+            color: black;
+            margin-bottom: 20px;
+        }
+
+        .lienfonction:hover{
+            transform: scale(1.02);
+            opacity: 0.8;
+            transition-duration: 400ms;
+        }
         .divfonction1, .divfonction2, .divfonction3{
             display: flex;
-            width: 320px;
-            height: 80px;
+            width: 100%;
+            height: 100%;
             border-radius: 15px;
             background-color: #f6f6f6;
             margin-bottom: 25px;
@@ -70,6 +97,7 @@
             background-color: #9d6cde;
             margin-left: -8px;
             text-align: center;
+            color: white;
         }
 
         .icon{
@@ -85,19 +113,35 @@
             align-items: center;
             height: auto;
         }
-
-        .figureresto{
+        .lien{
+            text-decoration: none;
+            color: black;
             width: 90%;
             height: 250px;
+            margin-bottom: 25px;
+        }
+
+        .lien:hover{
+            transform: scale(1.02);
+            opacity: 0.8;
+            transition-duration: 400ms;
+        }
+        .figureresto{
+            width: 100%;
+            height: 100%;
             background-color: white;
             border-radius: 15px;
+            margin: 0px; 
             
+             
         }
+        
         .img{
             width: 100% ;
             height: 170px;
             border-radius: 15px 15px 0px 0px;
             object-fit: cover;
+            cursor: pointer;
         }
 
         .fig{
@@ -107,7 +151,7 @@
             display: flex;
             justify-content: space-between;
         }
-
+        
         .divfig{
             flex-direction: column;
         }
