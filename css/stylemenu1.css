@@ -1,0 +1,208 @@
+
+    .body{
+        width: 100%;
+        margin: 0px;
+    }
+    .logofood{
+        display: flex;
+        height: 50px;
+    }
+    .imgheader{
+        width: 150px;
+    }
+    
+
+    .sectionfrancaise{
+        height: auto;
+    }
+
+    .divtitle{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .title{
+        margin-top: 0px;
+    }
+        
+    .figfrancaise{
+        margin: 0px;
+        height: 1420px;
+    }
+    .imgfrancaise{
+        width: 100%;
+        height: 250px;
+    }
+
+    .caption{
+        background-color: #f6f6f6;
+        height: 1150px;
+    }
+
+    .boxentree{
+        height: 320px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .lienentree{
+        width: 90%;
+        height: 70px;
+        text-decoration: none;
+        color: black;
+    }
+    .lienentree :hover{
+        transform: scale(1.02);
+        opacity: 0.8;
+        transition-duration: 400ms;
+    }
+
+    .diventree{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        border-radius: 15px;
+        background-color: #ffffff;
+    }
+
+    .titre{
+        margin: 10px;
+        margin-bottom: 2px;
+    }
+
+    .div1{
+        display: flex;
+        justify-content: space-between;
+        height: 35px;
+    }
+
+    .parag1{
+        margin-left: 10px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .parag2{
+        margin: 0px;
+        padding-right: 20px;
+    }
+
+
+    .boxplats{
+        height: 320px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .lienplats{
+        width: 90%;
+        height: 70px;
+        text-decoration: none;
+        color: black;
+    }
+
+    .lienplats :hover{
+        transform: scale(1.02);
+        opacity: 0.8;
+        transition-duration: 400ms;
+    }
+
+    .divplats{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        border-radius: 15px;
+        background-color: #ffffff;
+    }
+
+    .titreplats{
+        margin: 10px;
+        margin-bottom: 2px;
+    }
+
+    .blocplats{
+        display: flex;
+        justify-content: space-between;
+        height: 35px;
+    }
+
+    .graphe1{
+        margin-left: 10px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .graphe2{
+        margin: 0px;
+        padding-right: 20px;
+    }
+        
+
+    .boxdessert{
+        height: 380px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .liendessert{
+        width: 90%;
+        height: 70px;
+        text-decoration: none;
+        color: black;
+    }
+     
+    .liendessert :hover{
+        transform: scale(1.02);
+        opacity: 0.8;
+        transition-duration: 400ms;
+    }
+    .divdessert{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        border-radius: 15px;
+        background-color: #ffffff;
+    }
+
+    .titredessert{
+        margin: 10px;
+        margin-bottom: 2px;
+    }
+
+    .blocdessert{
+        display: flex;
+        justify-content: space-between;
+        height: 35px;
+    }
+
+    .paragra1{
+        margin-left: 10px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .paragra2{
+        margin: 0px;
+        padding-right: 20px;
+    }
+
+    .foot{
+        color: white;
+        background-color: #353535;
+        padding-left: 18px;
+    }
+    .titrefoot{
+        margin-top: 0px;
+        padding-top: 20px;
+    }
+
+
+

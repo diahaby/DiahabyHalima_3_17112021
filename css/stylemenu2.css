@@ -1,0 +1,165 @@
+
+    .body{
+        width: 100%;
+        margin: 0px;
+    }
+    .logoheader{
+        display: flex;
+        height: 50px;
+    }
+    .imglogo{
+        width: 150px;
+    }
+    .sectionenchantee{
+        height: auto;
+    }
+
+    .figureenchantee{
+        margin: 0px;
+        height: 1420px;
+    }
+    .divtitre{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .imgenchantee{
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+    }
+    .legende{
+        background-color: #f6f6f6;
+        height: 1150px;
+    }
+    .containerentree{
+        height: 320px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .lienentree{
+        width: 90%;
+        height: 70px;
+        text-decoration: none;
+        color: black;
+    }
+
+    .lienentree :hover{
+        transform: scale(1.02);
+        opacity: 0.8;
+        transition-duration: 400ms;
+    }
+    .blocentree{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        border-radius: 15px;
+        background-color: #ffffff;
+    }
+    .titrentree{
+        margin: 10px;
+        margin-bottom: 2px;
+    }
+    .cubeentree{
+        display: flex;
+        justify-content: space-between;
+        height: 35px;
+    }
+    .graphe1{
+        margin-left: 10px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .graphe2{
+        margin: 0px;
+        padding-right: 20px;
+    }
+    
+    .containerplats{
+        height: 320px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .lienplats{
+        width: 90%;
+        height: 70px;
+        text-decoration: none;
+        color: black;
+    }
+
+    .lienplats :hover{
+        transform: scale(1.02);
+        opacity: 0.8;
+        transition-duration: 400ms;
+    }
+    .blocplats{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        border-radius: 15px;
+        background-color: #ffffff;
+    }
+    .titrplats{
+        margin: 10px;
+        margin-bottom: 2px;
+    }
+    .cubeplats{
+        display: flex;
+        justify-content: space-between;
+        height: 35px;
+    }
+    .parag1{
+        margin-left: 10px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    .parag2{
+        margin: 0px;
+        padding-right: 20px;
+    }
+
+    .foot{
+        color: white;
+        background-color: #353535;
+        padding-left: 18px;
+    }
+    .titrefoot{
+        margin-top: 0px;
+        padding-top: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

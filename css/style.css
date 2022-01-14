@@ -1,5 +1,5 @@
 
-    @media all and (max-width:767px) {
+
         .body{
             font-family: "Raleway", sans-serif;
             margin: 0px;
@@ -166,10 +166,13 @@
         
         .footer{
             color: white;
-            background-color: black;
+            background-color: #353535;
             padding-left: 18px;
         }
 
+        .divicon{
+            display: flex;
+        }
         .imglogo{
             width: 100px;
             color: white;
@@ -203,5 +206,5 @@
 
 
 
-    }
+    
     
